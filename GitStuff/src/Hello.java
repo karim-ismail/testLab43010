@@ -9,7 +9,7 @@ public class Hello {
 		hello.methodC();
 	}
 	
-// im the captain now 
+// im the captain now
 	public void methodA(void ) { }
 
 	public void methodB(void) { }
