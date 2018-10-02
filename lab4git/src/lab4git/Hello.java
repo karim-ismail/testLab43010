@@ -9,7 +9,7 @@ public class Hello {
 		hello.methodB();
 		hello.methodC();
 	}
-	//sebastien is a fat man 
+	//sebastien is a smart man 
 	
 
 	public void methodA(void ) { }
