@@ -16,6 +16,6 @@ public class Hello {
 	public void methodB(void) { }
 
 	public void methodC(void) {
-		int count 2;
+		int count 10;
 	}
 }
