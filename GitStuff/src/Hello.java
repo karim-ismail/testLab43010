@@ -20,6 +20,9 @@ public class Hello {
 
 
 		int count 5;
+		
+		//katie adding another count
+		int thebestcount = 30;
 
 	}
 }
