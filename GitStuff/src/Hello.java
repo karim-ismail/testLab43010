@@ -9,8 +9,8 @@ public class Hello {
 		hello.methodC();
 	}
 	
-// I'm the captain now
-	//katie is the acpaeioat
+
+	
 	public void methodA(void ) { }
 
 	public void methodB(void) { }
@@ -19,9 +19,11 @@ public class Hello {
 
 
 
+
 		int count 5;
 		
 		//kareems stuff
+
 
 	}
 }
