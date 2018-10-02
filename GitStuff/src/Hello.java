@@ -21,14 +21,14 @@ public class Hello {
 
 
 		int count 5;
-<<<<<<< HEAD
+
 		
 		//this is annoying but fun
-=======
+
 		
-		//katie adding another count
+	
 		int thebestcount = 30;
->>>>>>> branch 'master' of https://github.com/karim-ismail/testLab43010.git
+
 
 
 	}
