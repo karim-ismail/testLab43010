@@ -15,5 +15,7 @@ public class Hello {
 
 	public void methodB(void) { }
 
-	public void methodC(void) { }
+	public void methodC(void) {
+		int count 1;
+	}
 }
